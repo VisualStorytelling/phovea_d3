@@ -50,7 +50,7 @@
     "dist": "mkdirp dist && cd build && tar cvzf ../dist/phovea_d3.tar.gz *"
   },
   "dependencies": {
-    "phovea_core": "github:VisualStorytelling/phovea_core#master",
+    "phovea_core": "github:VisualStorytelling/phovea_core#0.1.0",
     "@types/d3": "3.5.36",
     "d3": "3.5.17"
   },
